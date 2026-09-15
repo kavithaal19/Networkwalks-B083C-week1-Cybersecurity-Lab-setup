@@ -307,8 +307,6 @@ This laboratory is intended strictly for education purposes only.
 **Kavith A L**\
 Cybersecurity Engineer
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
-
 ---
 
 ## 📌 Project Information
