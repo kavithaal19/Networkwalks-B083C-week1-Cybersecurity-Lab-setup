@@ -105,9 +105,7 @@ Additional target machines can be added to the same virtual network in future pr
 ## Step 2. Install VirtualBox
 
 VirtualBox was installed as the hypervisor.
-
-
-
+![](Virtualbox.png)
 ---
 
 ## Step 3. Create the NAT Network
