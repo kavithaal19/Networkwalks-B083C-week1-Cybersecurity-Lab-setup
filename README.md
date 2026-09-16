@@ -106,8 +106,7 @@ Additional target machines can be added to the same virtual network in future pr
 
 VirtualBox was installed as the hypervisor.
 
-#SCREESHOTS
-![](Screenshot 2026-09-15 221214.png)
+
 
 ---
 
