@@ -237,7 +237,6 @@ sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
 
 The network connection was then restarted/rebooted and connectivity was tested again.
 
-> **Important:** Network interface and connection names may differ between systems. Students should first identify their actual connection name before running an `nmcli` command.
 
 ---
 
@@ -311,6 +310,9 @@ This laboratory is intended strictly for education purposes only.
 
 **Kavith A L**\
 Cybersecurity Engineer
+
+LinkedIN:
+https://www.linkedin.com/in/kavithaal/
 
 ---
 
