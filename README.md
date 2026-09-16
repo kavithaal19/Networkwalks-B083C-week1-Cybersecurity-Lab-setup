@@ -161,7 +161,7 @@ A shared folder was also configured for transferring required files between the 
 
 The Kali Linux network configuration was checked and configured with a consistent IPv4 address.
 
-![](Kali DNS.jpeg)
+![](KaliDNS.jpeg)
 
 Example configuration:
 
